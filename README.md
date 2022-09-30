@@ -1,2 +1,2 @@
 # Ionic
-Aprendiendo Angular e Ionic
+Ejemplo de bindings
