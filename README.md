@@ -1,2 +1,2 @@
-# Ionic
-Aprendiendo Angular e Ionic
+# Adivina el número
+Programa que genera un número aleatorio, y el usuario debe adivinarlo
