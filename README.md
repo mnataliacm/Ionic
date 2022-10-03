@@ -1,2 +1,3 @@
-# Ionic
-Aprendiendo Angular e Ionic
+# Binging
+Práctica usando binding
+
